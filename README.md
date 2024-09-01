@@ -1,3 +1,5 @@
 # cactoos_demo
 Config files for my GitHub profile.
-Author - Likon Barman
+<br>
+
+Author - <h2>Likon Barman</h2>
